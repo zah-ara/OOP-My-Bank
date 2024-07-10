@@ -1,3 +1,5 @@
+#! usr/bin/env node
+
 import { faker } from "@faker-js/faker";
 import chalk from "chalk";
 import inquirer from "inquirer";
